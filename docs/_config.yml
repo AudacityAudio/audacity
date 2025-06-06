@@ -1,0 +1,23 @@
+theme: jekyll-theme-cayman
+
+title: Audacity Offline Setup Assistant
+description: Official documentation for the Audacity Offline Setup Assistant.
+
+# SEO Settings
+url: "https://audacityaudio.github.io"
+baseurl: "/audacity"
+github_username: AudacityAudio
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Installation"
+    url: "/installation"
+  - title: "Troubleshooting"
+    url: "/troubleshooting"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap 
